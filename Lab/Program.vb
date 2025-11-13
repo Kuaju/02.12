@@ -6,5 +6,4 @@ Module Program
     End Sub
 End Module
 122112
-DimaKakashka
 lhklhkgkg
